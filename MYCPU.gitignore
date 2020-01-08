@@ -1,0 +1,7 @@
+#verilog
+*.bak
+*.vhd
+*.wlf
+work
+transcript
+_info
