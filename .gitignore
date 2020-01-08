@@ -1,6 +1,9 @@
 #verilog
 *.bak
 *.vhd
+*.mti
+*.mpf
+*.wlf
 work/
 transcript
 _info
