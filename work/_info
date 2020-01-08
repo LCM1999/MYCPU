@@ -1,0 +1,355 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelSim\examples
+T_opt
+V@X:WkJcZAi@oZSS4Uk>Em0
+04 9 4 work TestMyCPU fast 0
+=1-1005019b48f3-5e0d67dc-c2-2140
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.1a;51
+Z1 dD:\ModelSim\examples
+vALU
+VzzFji=^GQ<UNZ2iIFTT[n1
+r1
+31
+IMK^Umn:Hh@LDZ4o]]RLk@3
+Z2 dD:\ModelSim\examples\work
+w1577867459
+8D:/ModelSim/examples/work/ALU.v
+FD:/ModelSim/examples/work/ALU.v
+L0 2
+Z3 OE;L;10.1a;51
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u
+!i10b 1
+!s85 0
+!s100 8`?mH4A;khiJSPmEQX9g^1
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/ALU.v|
+!s108 1578042744.481000
+!s107 D:/ModelSim/examples/work/ALU.v|
+vBranch_Control
+!i10b 1
+Vi7DJn?hXMR>LX;]K7fJl=2
+r1
+!s85 0
+31
+IJOn5>1OAP=kJHP4@Z;NK^0
+R2
+w1578042644
+8D:/ModelSim/examples/work/Branch_Contorl.v
+FD:/ModelSim/examples/work/Branch_Contorl.v
+L0 2
+R3
+R4
+n@branch_@control
+!s100 eDR<E=E70;M];_cJDHMlg2
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/Branch_Contorl.v|
+!s108 1578042747.124000
+!s107 D:/ModelSim/examples/work/Branch_Contorl.v|
+vBypassContral
+V=ba2GYcXL2[;97Lfe@j;[0
+r1
+31
+I0M`TgF0KmOJoJ:d1g57DA2
+R2
+w1577886008
+8D:/ModelSim/examples/work/BypassContral.v
+FD:/ModelSim/examples/work/BypassContral.v
+L0 1
+R3
+R4
+n@bypass@contral
+!i10b 1
+!s85 0
+!s100 W4BzoSEFLzQJb6S@4`8zQ3
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/BypassContral.v|
+!s108 1578042745.181000
+!s107 D:/ModelSim/examples/work/BypassContral.v|
+vCU
+VTm?[<`n]Di<^Fh]00MH7B0
+r1
+31
+IfS<f<[HSAW>aZQYFTRjMS3
+R2
+w1578041616
+8D:\ModelSim\examples\work\CU.v
+FD:\ModelSim\examples\work\CU.v
+L0 2
+R3
+R4
+n@c@u
+!i10b 1
+!s85 0
+!s100 6?fT2W_3L_n@f?7m[Qf5U0
+!s90 -reportprogress|300|-work|work|-vopt|D:\ModelSim\examples\work\CU.v|
+!s108 1578042742.149000
+!s107 D:\ModelSim\examples\work\CU.v|
+vDataMem
+V1EhRhJIiJbT4zdeM_z4cW2
+r1
+31
+I6Y=>dYLMYh?b=4Ped<O^W0
+R2
+w1577879574
+8D:/ModelSim/examples/work/DataMem.v
+FD:/ModelSim/examples/work/DataMem.v
+L0 2
+R3
+R4
+n@data@mem
+!i10b 1
+!s85 0
+!s100 Ka8>1Y2CQe]5CV7V1iQTA1
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/DataMem.v|
+!s108 1578042744.839000
+!s107 D:/ModelSim/examples/work/DataMem.v|
+vEX_MEM_Reg
+V1M<TU7gTQAD;7hT3X>Nkf0
+r1
+31
+I]aBbR@`DD:IKPd<Tf5`C13
+R2
+w1577935972
+8D:/ModelSim/examples/work/EX_MEM_Reg.v
+FD:/ModelSim/examples/work/EX_MEM_Reg.v
+L0 2
+R3
+R4
+n@e@x_@m@e@m_@reg
+!i10b 1
+!s85 0
+!s100 kb0Pl@6P85[e1iXKZO3^`0
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/EX_MEM_Reg.v|
+!s108 1578042744.661000
+!s107 D:/ModelSim/examples/work/EX_MEM_Reg.v|
+vExtend_Unit
+V^Rehlz12jTS@obigSlONU3
+r1
+31
+IB=OO<`XehZnk<8n?C_eE?2
+R2
+w1577867425
+8D:/ModelSim/examples/work/SignZeroExtend.v
+FD:/ModelSim/examples/work/SignZeroExtend.v
+L0 2
+R3
+R4
+n@extend_@unit
+!i10b 1
+!s85 0
+!s100 8R[L44m8Ih>MXYd8m3mde1
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/SignZeroExtend.v|
+!s108 1578042744.117000
+!s107 D:/ModelSim/examples/work/SignZeroExtend.v|
+vHazard_Detection
+V8C<k5??abV?2Zz8>67@Vk2
+r1
+31
+IP3SHbg4U@M=MliO`b[O?62
+R2
+w1577892141
+8D:/ModelSim/examples/work/Hazard_Detection.v
+FD:/ModelSim/examples/work/Hazard_Detection.v
+L0 2
+R3
+R4
+n@hazard_@detection
+!i10b 1
+!s85 0
+!s100 oQcUch5D8H_7l4_FRdAl]2
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/Hazard_Detection.v|
+!s108 1578042745.362000
+!s107 D:/ModelSim/examples/work/Hazard_Detection.v|
+vID
+VRT>02meH^QYa=<8PoI_do1
+r1
+31
+IhB9<LicKQ`5=B<8:LHZ]A0
+R2
+w1578040582
+8D:/ModelSim/examples/work/InsDecode.v
+FD:/ModelSim/examples/work/InsDecode.v
+L0 2
+R3
+R4
+n@i@d
+!i10b 1
+!s85 0
+!s100 z89c[jSU>3O[M`GSeKD:U1
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/InsDecode.v|
+!s108 1578042743.754000
+!s107 D:/ModelSim/examples/work/InsDecode.v|
+vID_EX_Reg
+V^z?6AX<ZUHd4hg1cMZeZ93
+r1
+31
+IgYCL@`k]EIjdiH5Qj:1F[0
+R2
+w1578041801
+8D:/ModelSim/examples/work/ID_EX_Register.v
+FD:/ModelSim/examples/work/ID_EX_Register.v
+L0 2
+R3
+R4
+n@i@d_@e@x_@reg
+!i10b 1
+!s85 0
+!s100 `BQTMG]HP`migER7HmgeK3
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/ID_EX_Register.v|
+!s108 1578042744.310000
+!s107 D:/ModelSim/examples/work/ID_EX_Register.v|
+vInsMem
+V[W=aC[ZH>7D_ZeQDJ@`fO3
+r1
+31
+Ie9Al<9MKKXYm7WEXkfZ@82
+R2
+w1577936821
+8D:/ModelSim/examples/work/InsMem.v
+FD:/ModelSim/examples/work/InsMem.v
+L0 2
+R3
+R4
+n@ins@mem
+!i10b 1
+!s85 0
+!s100 @j<G`W95@5>3QWjYdCV7m3
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/InsMem.v|
+!s108 1578042743.365000
+!s107 D:/ModelSim/examples/work/InsMem.v|
+vIR
+Vn6MPEjk0cC0DZ;5UT_f8k3
+r1
+31
+I?0=`3^L_Bomnic=88hfV_1
+R2
+w1578042190
+8D:/ModelSim/examples/work/InsRegister.v
+FD:/ModelSim/examples/work/InsRegister.v
+L0 2
+R3
+R4
+n@i@r
+!i10b 1
+!s85 0
+!s100 :JRzhZ3]DMJ[d7@Q`LiV<3
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/InsRegister.v|
+!s108 1578042743.581000
+!s107 D:/ModelSim/examples/work/InsRegister.v|
+vMEM_WB_Reg
+V[EGM<QKhVjmc_A9ld?=Mj0
+r1
+31
+IiQGZTgO5PI]Ck2_OJnN>J2
+R2
+w1578014774
+8D:/ModelSim/examples/work/MEM_WB_Reg.v
+FD:/ModelSim/examples/work/MEM_WB_Reg.v
+L0 2
+R3
+R4
+n@m@e@m_@w@b_@reg
+!i10b 1
+!s85 0
+!s100 KWDX:=`?61Ih0@k8SIVaf0
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/MEM_WB_Reg.v|
+!s108 1578042745.009000
+!s107 D:/ModelSim/examples/work/MEM_WB_Reg.v|
+vMyCPU
+V:[<SK6bZJWm2BUi1lzS<a2
+r1
+31
+IM;EYNHLiYa8U_bFPjO7gf2
+R2
+w1578042746
+8D:/ModelSim/examples/work/MyCPU.v
+FD:/ModelSim/examples/work/MyCPU.v
+L0 2
+R3
+R4
+n@my@c@p@u
+!i10b 1
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/MyCPU.v|
+!s100 F5mh@noeTE?UJ4h;D^6m92
+!s108 1578042746.779000
+!s107 D:/ModelSim/examples/work/MyCPU.v|
+vPC
+VmLjfVK^al2@GYMj6eJk5[2
+r1
+31
+ILmfS`]IF;39jFgJn>MS8d3
+R2
+w1578016806
+8D:/ModelSim/examples/work/PC.v
+FD:/ModelSim/examples/work/PC.v
+L0 2
+R3
+R4
+n@p@c
+!i10b 1
+!s85 0
+!s100 O`>LQCdNHYI4hJlnF^U]J1
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/PC.v|
+!s108 1578042742.569000
+!s107 D:/ModelSim/examples/work/PC.v|
+vpcAdder
+V0F_ZlJgS]2_m:XLz;8IPm2
+r1
+31
+ISCIGP8EK7;VZeV36k6NE92
+R2
+w1578041609
+8D:/ModelSim/examples/work/PCadder.v
+FD:/ModelSim/examples/work/PCadder.v
+L0 2
+R3
+R4
+npc@adder
+!i10b 1
+!s85 0
+!s100 A87M[4R:4FoM`b]JBM[?S2
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/PCadder.v|
+!s108 1578042742.800000
+!s107 D:/ModelSim/examples/work/PCadder.v|
+vRegFile
+VzdRnTd7h7M;RQ4AW9QT4W0
+r1
+31
+IAzokF@lYnUAgO^2@^7kOM1
+R2
+w1577949054
+8D:/ModelSim/examples/work/RegisterFile.v
+FD:/ModelSim/examples/work/RegisterFile.v
+L0 2
+R3
+R4
+n@reg@file
+!i10b 1
+!s85 0
+!s100 WaBcjO[B6im:X4chcdViY2
+!s90 -reportprogress|300|-work|work|-vopt|D:/ModelSim/examples/work/RegisterFile.v|
+!s108 1578042743.927000
+!s107 D:/ModelSim/examples/work/RegisterFile.v|
+vTestMyCPU
+VAZ7Cf8C7Pc`O]_QjK71=O0
+r1
+31
+IfU8G?3jd6UgRZi0VgM:Kk2
+R2
+w1578041741
+8D:\ModelSim\examples\work\TestMyCPU.v
+FD:\ModelSim\examples\work\TestMyCPU.v
+L0 3
+R3
+R4
+n@test@my@c@p@u
+!i10b 1
+!s85 0
+!s100 :ODVSLFbSFQ<SF0RPW]cV0
+!s90 -reportprogress|300|-work|work|-vopt|D:\ModelSim\examples\work\TestMyCPU.v|
+!s108 1578042746.925000
+!s107 D:\ModelSim\examples\work\TestMyCPU.v|
